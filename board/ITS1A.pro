@@ -1,4 +1,4 @@
-update=Mon 13 Aug 2018 03:42:38 PM CEST
+update=Thu 30 Aug 2018 08:55:41 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=/home/paul/Downloads
@@ -63,3 +61,5 @@ LibName31=contrib
 LibName32=valves
 LibName33=/home/paul/df/hw-kicad/device.farm
 LibName34=MCU_ST_STM32F0
+[general]
+version=1
